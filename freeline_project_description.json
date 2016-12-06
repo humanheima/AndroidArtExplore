@@ -1,17 +1,17 @@
 {
     "android_gradle_plugin_version": "2.2.2",
-    "apk_path": "D:\\AndroidArtExplore\\chapter_one\\build\\outputs\\apk\\chapter_one-debug.apk",
+    "apk_path": "D:\\AndroidArtExplore\\chapter_two\\build\\outputs\\apk\\chapter_two-debug.apk",
     "apt": {
         
     },
     "apt_libraries": {
         "dagger": false,
-        "butterknife": false
+        "butterknife": true
     },
     "auto_dependency": true,
-    "build_cache_dir": "D:\\AndroidArtExplore\\chapter_one\\build\\freeline",
-    "build_directory": "D:\\AndroidArtExplore\\chapter_one\\build",
-    "build_script": "gradlew.bat :chapter_one:assembleDebug",
+    "build_cache_dir": "D:\\AndroidArtExplore\\chapter_two\\build\\freeline",
+    "build_directory": "D:\\AndroidArtExplore\\chapter_two\\build",
+    "build_script": "gradlew.bat :chapter_two:assembleDebug",
     "build_script_work_directory": "",
     "build_tools_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\build-tools\\24.0.3",
     "build_tools_version": "24.0.3",
@@ -24,7 +24,7 @@
     "databinding_modules": [
         
     ],
-    "debug_package": "com.hm.androidartexplore",
+    "debug_package": "com.hm.chapter_two",
     "exclude_dep_res_paths": [
         
     ],
@@ -34,66 +34,66 @@
     "freeline_cache_dir": "D:\\AndroidArtExplore",
     "freeline_gradle_plugin_version": "0.8.3",
     "java_home": "C:\\Program Files\\Java\\jdk1.8.0_91",
-    "launcher": "com.hm.androidartexplore.MainActivity",
+    "launcher": "com.hm.chapter_two.MainActivity",
     "main_assets_directory": [
-        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\assets",
-        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\assets"
+        "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\assets",
+        "D:\\AndroidArtExplore\\chapter_two\\src\\main\\assets"
     ],
     "main_jniLibs_directory": [
-        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jniLibs",
-        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jniLibs"
+        "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\jniLibs",
+        "D:\\AndroidArtExplore\\chapter_two\\src\\main\\jniLibs"
     ],
     "main_jni_directory": [
-        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jni",
-        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jni"
+        "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\jni",
+        "D:\\AndroidArtExplore\\chapter_two\\src\\main\\jni"
     ],
-    "main_manifest_path": "D:\\AndroidArtExplore\\chapter_one\\src\\main\\AndroidManifest.xml",
-    "main_project_dir": "chapter_one",
-    "main_project_name": "chapter_one",
-    "main_r_path": "D:\\AndroidArtExplore\\chapter_one\\build\\generated\\source\\r\\debug\\R.java",
+    "main_manifest_path": "D:\\AndroidArtExplore\\chapter_two\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "chapter_two",
+    "main_project_name": "chapter_two",
+    "main_r_path": "D:\\AndroidArtExplore\\chapter_two\\build\\generated\\source\\r\\debug\\R.java",
     "main_res_directory": [
-        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\res",
-        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\res"
+        "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\res",
+        "D:\\AndroidArtExplore\\chapter_two\\src\\main\\res"
     ],
     "main_src_directory": [
-        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\java",
-        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\java"
+        "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\java",
+        "D:\\AndroidArtExplore\\chapter_two\\src\\main\\java"
     ],
     "module_dependencies": {
-        "chapter_one": [
+        "chapter_two": [
             
         ]
     },
     "modules": [
         {
-            "name": "chapter_one",
-            "path": "D:\\AndroidArtExplore\\chapter_one"
+            "name": "chapter_two",
+            "path": "D:\\AndroidArtExplore\\chapter_two"
         }
     ],
-    "package": "com.hm.androidartexplore",
+    "package": "com.hm.chapter_two",
     "product_flavor": "",
     "project_source_sets": {
-        "chapter_one": {
+        "chapter_two": {
             "main_assets_directory": [
-                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\assets",
-                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\assets"
+                "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\assets",
+                "D:\\AndroidArtExplore\\chapter_two\\src\\main\\assets"
             ],
             "main_jniLibs_directory": [
-                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jniLibs",
-                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jniLibs"
+                "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\jniLibs",
+                "D:\\AndroidArtExplore\\chapter_two\\src\\main\\jniLibs"
             ],
             "main_jni_directory": [
-                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jni",
-                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jni"
+                "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\jni",
+                "D:\\AndroidArtExplore\\chapter_two\\src\\main\\jni"
             ],
-            "main_manifest_path": "D:\\AndroidArtExplore\\chapter_one\\src\\main\\AndroidManifest.xml",
+            "main_manifest_path": "D:\\AndroidArtExplore\\chapter_two\\src\\main\\AndroidManifest.xml",
             "main_res_directory": [
-                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\res",
-                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\res"
+                "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\res",
+                "D:\\AndroidArtExplore\\chapter_two\\src\\main\\res"
             ],
             "main_src_directory": [
-                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\java",
-                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\java"
+                "D:\\AndroidArtExplore\\chapter_two\\src\\debug\\java",
+                "D:\\AndroidArtExplore\\chapter_two\\src\\main\\java"
             ]
         }
     },
