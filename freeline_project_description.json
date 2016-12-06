@@ -1,0 +1,107 @@
+{
+    "android_gradle_plugin_version": "2.2.2",
+    "apk_path": "D:\\AndroidArtExplore\\chapter_one\\build\\outputs\\apk\\chapter_one-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "D:\\AndroidArtExplore\\chapter_one\\build\\freeline",
+    "build_directory": "D:\\AndroidArtExplore\\chapter_one\\build",
+    "build_script": "gradlew.bat :chapter_one:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\build-tools\\24.0.3",
+    "build_tools_version": "24.0.3",
+    "compile_sdk_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\platforms\\android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.hm.androidartexplore",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "D:\\AndroidArtExplore",
+    "freeline_gradle_plugin_version": "0.8.3",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_91",
+    "launcher": "com.hm.androidartexplore.MainActivity",
+    "main_assets_directory": [
+        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\assets",
+        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jniLibs",
+        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jni",
+        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jni"
+    ],
+    "main_manifest_path": "D:\\AndroidArtExplore\\chapter_one\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "chapter_one",
+    "main_project_name": "chapter_one",
+    "main_r_path": "D:\\AndroidArtExplore\\chapter_one\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\res",
+        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\java",
+        "D:\\AndroidArtExplore\\chapter_one\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "chapter_one": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "chapter_one",
+            "path": "D:\\AndroidArtExplore\\chapter_one"
+        }
+    ],
+    "package": "com.hm.androidartexplore",
+    "product_flavor": "",
+    "project_source_sets": {
+        "chapter_one": {
+            "main_assets_directory": [
+                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\assets",
+                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jniLibs",
+                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\jni",
+                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\jni"
+            ],
+            "main_manifest_path": "D:\\AndroidArtExplore\\chapter_one\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\res",
+                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "D:\\AndroidArtExplore\\chapter_one\\src\\debug\\java",
+                "D:\\AndroidArtExplore\\chapter_one\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "D:\\AndroidArtExplore",
+    "sdk_directory": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+    "use_jdk8": true
+}
