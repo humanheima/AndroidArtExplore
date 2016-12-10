@@ -1,1 +1,1 @@
-include ':chapter_one', ':chapter_two'
+include ':chapter_one', ':chapter_two', ':AIDL_Server', ':AILDLibrary', ':AIDL_Client'

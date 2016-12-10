@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDL_Client/AIDL_Client.iml" filepath="$PROJECT_DIR$/AIDL_Client/AIDL_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDL_Server/AIDL_Server.iml" filepath="$PROJECT_DIR$/AIDL_Server/AIDL_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AILDLibrary/AILDLibrary.iml" filepath="$PROJECT_DIR$/AILDLibrary/AILDLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidArtExplore.iml" filepath="$PROJECT_DIR$/AndroidArtExplore.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_one/chapter_one.iml" filepath="$PROJECT_DIR$/chapter_one/chapter_one.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_two/chapter_two.iml" filepath="$PROJECT_DIR$/chapter_two/chapter_two.iml" />
